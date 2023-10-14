@@ -23,3 +23,27 @@ git push -u orgin
 git push -u orgin main
 clear
 exit
+ccbp start NJSCPUETHL
+function factorialOfNumbers(num){
+}
+module.exports=factorialOfNumbersfunction factorialOfNumbers(num){
+}
+ccbp start NJSCPUETHL
+ccbp submit NJSCPUETHL
+git init
+cd
+git init
+clear
+git init
+cd utilities
+git init
+git remote add orgin https://github.com/Ravindrababugollavilli/CALCULATE-RATIO-AND-FACTORIAL.git
+git add -A
+git commit -m "CALCULATE RATIO AND FACTORIAL"
+git branch -m main
+git push -u orgin main
+git remote add origin https://github.com/Ravindrababugollavilli/CALCULATE-RATIO-AND-FACTORIAL.git
+git branch -M main
+git push -u origin main
+clear
+exit
